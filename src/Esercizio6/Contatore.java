@@ -48,7 +48,6 @@ public class Contatore {
     InputUtente = Scan.nextInt();
     
     } while(InputUtente>10 || InputUtente<0); // il numero inserito deve essere dentro nel range di 0 a 10.
-    System.out.println("Inserire un numero da 1 a 5");
     // Fine : Creazione del metodo per l'input dell'utente.
     
     }
